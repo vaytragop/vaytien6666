@@ -8030,6 +8030,7 @@ ul.treeMenu
 
 
 
+
 .mobile_support {
     background: #1ed23c;
     color: #fff;
@@ -8084,6 +8085,10 @@ ul.treeMenu
 
     animation-direction: alternate;
 
+}
+
+.zalo_support{
+    bottom: 45px;
 }
 
 @keyframes calllink {
